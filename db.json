@@ -17,7 +17,12 @@
           "difficulty": "medium",
           "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
           "correct_answer": "Camshaft",
-          "incorrect_answers": ["Piston", "Drive shaft", "Crankshaft"]
+          "options": [
+            "Piston",
+            "Drive shaft",
+            "Crankshaft",
+            "Camshaft"
+          ]
         },
         {
           "category": "Sports",
@@ -25,7 +30,7 @@
           "difficulty": "easy",
           "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
           "correct_answer": "7 - 1",
-          "incorrect_answers": ["0 - 1", "3 - 4", "16 - 0"]
+          "options": ["7 - 1", "0 - 1", "3 - 4", "16 - 0"]
         },
         {
           "category": "Science&Nature",
@@ -33,7 +38,7 @@
           "difficulty": "easy",
           "question": "The medical term for the belly button is which of the following?",
           "correct_answer": "Umbilicus",
-          "incorrect_answers": ["Nevus", "Nares", "Paxillus"]
+          "options": ["Nevus", "Umbilicus", "Nares", "Paxillus"]
         },
         {
           "category": "Entertainment",
@@ -41,7 +46,7 @@
           "difficulty": "easy",
           "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
           "correct_answer": "Bass Guitar",
-          "incorrect_answers": ["Drums", "Guitar", "Keyboards"]
+          "options": ["Drums", "Guitar", "Bass Guitar", "Keyboards"]
         },
         {
           "category": "History",
@@ -49,7 +54,8 @@
           "difficulty": "hard",
           "question": "What was Napoleon Bonaparte&#039;s name before he changed it?",
           "correct_answer": "Napoleone di Buonaparte",
-          "incorrect_answers": [
+          "options": [
+            "Napoleone di Buonaparte",
             "Naapolion van Bonijpaart",
             "Napole&atilde;o do Boaparte",
             "Napoleona de Buenoparte"
@@ -61,7 +67,7 @@
           "difficulty": "hard",
           "question": "What engine is in the Lexus SC400?",
           "correct_answer": "1UZ-FE",
-          "incorrect_answers": ["2JZ-GTE", "7M-GTE", "5M-GE"]
+          "options": ["2JZ-GTE", "7M-GTE", "5M-GE", "1UZ-FE"]
         },
         {
           "category": "Entertainment",
@@ -69,9 +75,10 @@
           "difficulty": "hard",
           "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
           "correct_answer": "Partisan Eagle",
-          "incorrect_answers": [
+          "options": [
             "Blast Fencer",
             "Winged Viper",
+            "Partisan Eagle",
             "Bastion Warrior"
           ]
         },
@@ -81,9 +88,10 @@
           "difficulty": "easy",
           "question": "The board game Monopoly takes its street names from which real American city?",
           "correct_answer": "Atlantic City, New Jersey",
-          "incorrect_answers": [
+          "options": [
             "Las Vegas, Nevada",
             "Duluth, Minnesota",
+            "Atlantic City, New Jersey",
             "Charleston, South Carolina"
           ]
         },
@@ -93,7 +101,7 @@
           "difficulty": "hard",
           "question": "How many trophies are there in &quot;Super Smash Bros. for Nintendo 3DS&quot;?",
           "correct_answer": "685",
-          "incorrect_answers": ["1360", "716", "1155"]
+          "options": ["685", "1360", "716", "1155"]
         },
         {
           "category": "Entertainment",
@@ -101,7 +109,12 @@
           "difficulty": "easy",
           "question": "What video game engine does the videogame Quake 2 run in?",
           "correct_answer": "iD Tech 2",
-          "incorrect_answers": ["iD Tech 3", "iD Tech 1", "Unreal Engine"]
+          "options": [
+            "iD Tech 3",
+            "iD Tech 2",
+            "iD Tech 1",
+            "Unreal Engine"
+          ]
         },
         {
           "category": "Entertainment",
@@ -109,18 +122,24 @@
           "difficulty": "easy",
           "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
           "correct_answer": "Microwave",
-          "incorrect_answers": ["Computer", "Refrigerator", "Televison"]
+          "options": [
+            "Computer",
+            "Refrigerator",
+            "Microwave",
+            "Televison"
+          ]
         },
         {
           "category": "Entertainment",
           "type": "multiple",
           "difficulty": "hard",
           "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
-          "correct_answer": "&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
-          "incorrect_answers": [
-            "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
-            "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
-            "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+          "correct_answer": "A rainy Lithuanian / Is dancing as an Indian&quot",
+          "options": [
+            "A rainy Lithuanian / Is dancing as an Indian&quot",
+            "Fly away on, my zephyr / I feel it more than ever;",
+            "And I liked the dimple in your chin / Your pale blue eyes&quot;",
+            "You used to be so warm and affectionate...but now you're quick to get into your regret&quot;"
           ]
         },
         {
@@ -129,7 +148,8 @@
           "difficulty": "hard",
           "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
           "correct_answer": "Rik Mayall",
-          "incorrect_answers": [
+          "options": [
+            "Rik Mayall",
             "Adrian Edmondson",
             "Nigel Planer",
             "Christopher Ryan"
@@ -141,7 +161,7 @@
           "difficulty": "medium",
           "question": "How many books are in Euclid&#039;s Elements of Geometry?",
           "correct_answer": "13",
-          "incorrect_answers": ["8", "10", "17"]
+          "options": ["8", "13", "10", "17"]
         },
         {
           "category": "Entertainment",
@@ -149,7 +169,8 @@
           "difficulty": "easy",
           "question": "Who is the lead singer of Arctic Monkeys?",
           "correct_answer": "Alex Turner",
-          "incorrect_answers": [
+          "options": [
+            "Alex Turner",
             "Jamie Cook",
             "Matt Helders",
             "Nick O,Malley"
