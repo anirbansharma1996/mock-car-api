@@ -28,7 +28,7 @@
           "incorrect_answers": ["0 - 1", "3 - 4", "16 - 0"]
         },
         {
-          "category": "Science & Nature",
+          "category": "Science&Nature",
           "type": "multiple",
           "difficulty": "easy",
           "question": "The medical term for the belly button is which of the following?",
@@ -36,7 +36,7 @@
           "incorrect_answers": ["Nevus", "Nares", "Paxillus"]
         },
         {
-          "category": "Entertainment: Music",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "easy",
           "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
@@ -64,7 +64,7 @@
           "incorrect_answers": ["2JZ-GTE", "7M-GTE", "5M-GE"]
         },
         {
-          "category": "Entertainment: Video Games",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "hard",
           "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "category": "Entertainment: Board Games",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "easy",
           "question": "The board game Monopoly takes its street names from which real American city?",
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "category": "Entertainment: Video Games",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "hard",
           "question": "How many trophies are there in &quot;Super Smash Bros. for Nintendo 3DS&quot;?",
@@ -96,7 +96,7 @@
           "incorrect_answers": ["1360", "716", "1155"]
         },
         {
-          "category": "Entertainment: Video Games",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "easy",
           "question": "What video game engine does the videogame Quake 2 run in?",
@@ -104,7 +104,7 @@
           "incorrect_answers": ["iD Tech 3", "iD Tech 1", "Unreal Engine"]
         },
         {
-          "category": "Entertainment: Video Games",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "easy",
           "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
@@ -112,7 +112,7 @@
           "incorrect_answers": ["Computer", "Refrigerator", "Televison"]
         },
         {
-          "category": "Entertainment: Music",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "hard",
           "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
@@ -124,7 +124,7 @@
           ]
         },
         {
-          "category": "Entertainment: Television",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "hard",
           "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "category": "Science: Mathematics",
+          "category": "Science",
           "type": "multiple",
           "difficulty": "medium",
           "question": "How many books are in Euclid&#039;s Elements of Geometry?",
@@ -144,7 +144,7 @@
           "incorrect_answers": ["8", "10", "17"]
         },
         {
-          "category": "Entertainment: Music",
+          "category": "Entertainment",
           "type": "multiple",
           "difficulty": "easy",
           "question": "Who is the lead singer of Arctic Monkeys?",
@@ -152,7 +152,7 @@
           "incorrect_answers": [
             "Jamie Cook",
             "Matt Helders",
-            "Nick O&#039;Malley"
+            "Nick O,Malley"
           ]
         }
       ]
